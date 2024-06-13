@@ -4589,3 +4589,11 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.13-21.57.29:695][665]Cmd: DUPLICATE
 [2024.06.13-21.57.29:695][665]Cmd: ACTOR DUPLICATE
 [2024.06.13-21.57.29:726][665]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.06.13-22.01.00:802][934]LogSlate: Window 'Save Level As' being destroyed
+[2024.06.13-22.01.02:792][994]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.13-22.01.02:848][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assetes/Blood/Blood" FILE="D:/PH/ph/Content/Assetes/Blood/Blood.uasset" SILENT=true
+[2024.06.13-22.01.02:872][994]LogSavePackage: Moving output files for package: /Game/Assetes/Blood/Blood
+[2024.06.13-22.01.02:872][994]LogSavePackage: Moving 'D:/PH/ph/Saved/BloodED64E4B74BDC37D20FA3798B3DD5DC9F.tmp' to 'D:/PH/ph/Content/Assetes/Blood/Blood.uasset'
+[2024.06.13-22.01.02:879][994]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 1.60 sec)
+[2024.06.13-22.01.02:885][994]AssetCheck: New page: Asset Save: Blood
+[2024.06.13-22.01.02:885][994]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assetes/Blood/Blood.Blood
