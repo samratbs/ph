@@ -3700,3 +3700,12 @@ Scale3D: 1.000000 1.000000 1.000000
 [2024.06.13-22.48.55:698][402]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2024.06.13-22.48.55:738][403]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2024.06.13-22.48.55:784][405]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.06.13-22.51.34:947][168]BlueprintLog: New page: Compile BP_Credits
+[2024.06.13-22.51.34:992][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.06.13-22.51.35:592][181]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.13-22.51.35:634][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Widget/BP_Credits" FILE="D:/Unreal Projects/PH/Content/FirstPerson/Widget/BP_Credits.uasset" SILENT=true
+[2024.06.13-22.51.35:639][181]LogSavePackage: Moving output files for package: /Game/FirstPerson/Widget/BP_Credits
+[2024.06.13-22.51.35:640][181]LogSavePackage: Moving 'D:/Unreal Projects/PH/Saved/BP_Credits78118DD14BBE2DB6406A5CA9F8AA6E83.tmp' to 'D:/Unreal Projects/PH/Content/FirstPerson/Widget/BP_Credits.uasset'
+[2024.06.13-22.51.35:647][181]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 2.82 sec)
+[2024.06.13-22.51.35:656][181]AssetCheck: New page: Asset Save: BP_Credits
+[2024.06.13-22.51.35:656][181]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Widget/BP_Credits.BP_Credits
